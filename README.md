@@ -1,2 +1,2 @@
 # django_boilerplate
-Baby steps!
+Baby steps in the path of Django!
