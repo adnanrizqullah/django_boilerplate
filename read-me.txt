@@ -1,5 +1,0 @@
-Bismillah
-
-Untuk mendapat semua package yang dibutuhkan pada boilerplate ini lakukan :
-1. Bikin virtual enviroment ( agar packages kelak di install di enviroment tsb, bukan di global ) 
-2. pip install -r requirements.txt
